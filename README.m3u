@@ -1,629 +1,653 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml; http://uztv.su/uploads/channelsarch/channels.xml; https://iptvx.one/EPG_NOARCH; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml; http://iptv-content.rv77.pw/guide-lite.xml"
-#EXTINF:-1 group-title="NEXO",NEXO
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://stream8.cinerama.uz/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Пастух (Pan Flute Cover)_v2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",I swear (Country Cover)_v2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Candy (Jazz-Funk Cover)_v1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Never Leav (Country Cover)_v2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Candy (Jazz-Funk Cover)_v2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Candy (Smooth Jazz Cover)_v1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="NEXO",Candy (Smooth Jazz Cover)_v2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Российские",Aris 24
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="Российские",555
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://trk555.tv:8888/live
-#EXTINF:-1 tvg-logo="http://epg.one/img2/187.png" group-title="Российские",Россия К HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/32078/index.m3u8
-#EXTINF:-1 tvg-logo="http://de1.plist.link/plepg/img/channels/2804.png?69c29495b9dac" group-title="Российские",Россия 1 +7
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://de1.plist.link:3355/FGfpnUmovVu62804/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP-3F26Lfz7p8j8m4CvcaH7-ceylsJGhfSwxyIwTAPaUo.tg6457680141
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3002.png" group-title="Российские",Россия 1 +6
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6038/index.m3u8
-#EXTINF:-1 tvg-logo="http://de1.plist.link/plepg/img/channels/2841.png?69c29495b9dac" group-title="Российские",Россия 1 +5
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://de1.plist.link:3355/FGfpnUmovVu52841/index.m3u8?token=8AqJ8y_ch5_3l2pEaM-dP4wqXA8UWtTDQgTzknhnqgaCtqElPALhplJQoyJVG3ib.tg6457680141
-#EXTINF:-1 tvg-logo="http://epg.one/img2/711.png" group-title="Российские",Россия 1 +8
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6051/index.m3u8
-#EXTINF:-1 tvg-logo="http://de1.plist.link/plepg/img/channels/2806.png?69c29495b9dac" group-title="Российские",Россия 1 +9
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://live.smotrim.ru/vgtrk/9/russia1-hd/index.m3u8?scheme=https
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3001.png" group-title="Российские",Россия 1 +4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6022/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2964.png" group-title="Российские",НТВ +4
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/6024/index.m3u8
-#EXTINF:-1 group-title="Российские",LDPR TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Российские",Belgorod 24
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1755.png" group-title="Российские",НТВ Стиль
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/745/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1754.png" group-title="Российские",НТВ Сериал
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/744/index.m3u8
-#EXTINF:-1 group-title="Российские",Channel-16
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1753.png" group-title="Российские",НТВ Право
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/743/index.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",ТВ Харьков Z
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",Радио Харьков Z
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://node1.craftradio.ru:8000/215_55AE795B
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sever.png" group-title="ОПЛОТ",Север
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",Радио Z
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://node1.craftradio.ru:8003/201_EFA53E54
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tv-guberniya.png" group-title="ОПЛОТ",TV Губерния
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",News Front TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="ОПЛОТ",Краснодар HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",Известия Воронеж
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",ВМЕСТЕ:РФ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/218.png" group-title="ОПЛОТ",Кубань 24
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="ОПЛОТ",Дума ТВ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="ОПЛОТ",Конгресс ТВ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",UNIVER HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",RTД
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2296.png" group-title="ОПЛОТ",Просвещение
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",НТС HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/logo-z/b0886ba468dd169d44e9494bdc944d7a.png" group-title="ОПЛОТ",Брянская Губерния
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",Легендарный 24 HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="ОПЛОТ",Симферополь 24 HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/314.png" group-title="ОПЛОТ",RTД HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://dmitry-tv.ddns.net/hls/CH_RTDHD.m3u8
-#EXTINF:-1 group-title="Новости",Duma TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Новости",Sochi24
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 group-title="Новости",BBC
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://plbl.m9.lfstrm.tv/detskij_mir/normal/1/index.m3u8
-#EXTINF:-1 group-title="Новости",France 24 Arabic
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2292.png" group-title="Новости",ОСН
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:-1 group-title="Новости",France 24 Arabic
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Новости",France 24 English
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Новости",France 24 French
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="Новости",France 24 English
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Новости",Arirang Korea
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tro.png" group-title="Новости",БелРос
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Новости",Vesti FM
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1 group-title="Новости",h1 HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://45.11.139.43:8555/h1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1609.png" group-title="Новости",atv
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Новости",Nor Hayastan
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="Новости",NDTV India
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Новости",Aljazeera Mubasher
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 group-title="Новости",France 24 English
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/447.png" group-title="Новости",Tv Brics
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://p.rapidnas.org/img/logos/music/bridge-hd.png" group-title="Музыкальные",BRIDGE
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/109.png" group-title="Музыкальные",A1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdntv.online/high/kf28bzwndi/109.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/394.png" group-title="Музыкальные",BRIDGE Deluxe
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdntv.online/high/kf28bzwndi/394.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2024.png" group-title="Музыкальные",BRIDGE Hits
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/711/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Музыкальные",DanceHits80
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Matur TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные",Muzyka 1 International
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",City Eden Sirtaki TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",City Eden Classic Music
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Muzyka Kino International
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/681.png" group-title="Музыкальные",Europa Plus TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/115/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",City Eden Meditation Music
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",City Eden Play
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",TNT Music
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",City Eden Birma Play
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Strana FM
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Muzyka Pervogo
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",CHD-TV RU Rock HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",CHD-TV Rock
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2754.png" group-title="Фильмовые",Cinema
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoAction
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoArt
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/498.png" group-title="Фильмовые",A2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdntv.online/high/kf28bzwndi/498.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoAsia
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoDetektiv
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoDrama
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoMistika
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoDok
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoKlassika
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoFantastika
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoKomediya
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden TeleNovella
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",City Eden KinoSemya
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Kino 1 International
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Kineko
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Детские",Чип и Дейл
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="Детские",Solnce
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 group-title="Детские",SuperGeroi
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2011.png" group-title="Детские",Ani
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/129/index.m3u8
-#EXTINF:-1 group-title="Детские",Тамыр
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/7669.png" group-title="Детские",Солнце
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 group-title="Детские",Carousel International
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/d2cbd703-1019-4441-9d5b-a62cf6c3876b.png" group-title="Детские",СТС Kids
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/7669.png" group-title="Детские",Солнце
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/d2cbd703-1019-4441-9d5b-a62cf6c3876b.png" group-title="Детские",СТС Kids
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2AFGvZy.png" group-title="Детские",Пингвин
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tinyurl.com/TvZaTak005/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские",Radost Moya
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Prodvizhenie
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Региональные",Arkhyz 24
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Shayan TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://samaragis.ru/wp-includes/images/logo.png" group-title="Региональные",Samara-GIS
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png" group-title="Региональные",TVK
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="Региональные",TV PRO
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 group-title="Региональные",Volga
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Zvezda Plus
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",STS International
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2410.png" group-title="Региональные",Курай ТВ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Региональные",Матур ТВ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/salam.png" group-title="Региональные",Салям
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv-content.rv77.pw/336x192/5288.png" group-title="Региональные",8 канал
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спортивные",E TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Vital Basketball
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Vital Football
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Start Triumf
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",KHL Prime
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2326.png" group-title="Спортивные",MMA-TV.com
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Match! Arena
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный мир
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Swerve Sport
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2051.png" group-title="Спортивные",МАТЧ ТВ
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Конный мир HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2044.png" group-title="Спортивные",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Спортивные",Vital Drive
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Спортивные",A21 Network HD
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1042.png" group-title="Спортивные",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q8NQ4K4NST5Q3E3SXR6E8D9F/530/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFrrnnbS/IMG-20260501-154103-152.jpg" group-title="Спортивные",Матч!
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/UFCNetwork/ufc-network-new-logo.jpg" group-title="Спортивные",UFC Network
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Golf Channel English
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Konniy mir
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",City Eden Recepty Gurmana
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/519.png" group-title="Познавательные",FoodTime
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdntv.online/high/kf28bzwndi/519.m3u8
-#EXTINF:-1 group-title="Познавательные",City Eden AutoGid
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//6b6376318c6feffcb9b2ebc08d2e0880-q-500x500.jpeg" group-title="Познавательные",HDL
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",RT Documentary Russian
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//a45deeadee9760c6d7106f9d63f2ba86-q-500x500.jpeg" group-title="Познавательные",Nauka
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Moya Planeta
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Yuvelirochka
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2296.png" group-title="Познавательные",Просвещение
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/516.png" group-title="Познавательные",.sci-fi
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Познавательные",TBN BALTIA
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2280.png" group-title="Познавательные",RTG TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Ocean TV
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-https://s7.iptv-24.net/blocked/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Камин
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 7.1.2)
-#EXTVLCOPT:http-referrer=https://1.1.1.1
-http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="-",26TV
+http://138.59.227.20:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",A&E HD
+http://138.59.227.20:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="-",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="-",ABC TV
+http://138.59.227.20:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="-",AM Sports
+http://138.59.227.20:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="-",AMC
+http://138.59.227.20:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+http://138.59.227.20:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="-",Adult swim HD
+http://138.59.227.20:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="-",Albirroja Tv
+http://138.59.227.20:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://138.59.227.20:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",Azteca Deportes
+http://138.59.227.20:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+http://138.59.227.20:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-",Bruno Masi Tv
+http://138.59.227.20:8000/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+http://138.59.227.20:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",C9N Digital
+http://138.59.227.20:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-",C9N HD
+http://138.59.227.20:8000/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="-",CAMARA Camboriu
+http://138.59.227.20:8000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="-",CNN en Espaæol
+http://138.59.227.20:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="-",Cadena Master Tv
+http://138.59.227.20:8000/play/a0ez/index.m3u8
+#EXTINF:-1 group-title="-",Cambyreta Tv
+http://138.59.227.20:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="-",Canal 8 Villarrica
+http://138.59.227.20:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="-",Canal Extra
+http://138.59.227.20:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="-",Canal a
+http://138.59.227.20:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="-",Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://138.59.227.20:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+http://138.59.227.20:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://138.59.227.20:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="-",Cosmos HD
+http://138.59.227.20:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="-",Crðnica
+http://138.59.227.20:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",DeporTV
+http://138.59.227.20:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",DirecTv Sports
+http://138.59.227.20:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://138.59.227.20:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://138.59.227.20:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://138.59.227.20:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://138.59.227.20:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://138.59.227.20:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel HD
+http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",Disney Junior
+http://138.59.227.20:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="-",E! Entertainment
+http://138.59.227.20:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="-",E40 DIGITAL
+http://138.59.227.20:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://138.59.227.20:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://138.59.227.20:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://138.59.227.20:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="-",EWTN
+http://138.59.227.20:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="-",EWTN HD
+http://138.59.227.20:8000/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="-",El Canal  de las Estrellas
+http://138.59.227.20:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+http://138.59.227.20:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="-",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="-",Europa Europa
+http://138.59.227.20:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+http://138.59.227.20:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="-",Farra Play Tv
+http://138.59.227.20:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="-",Film & Arts HD
+http://138.59.227.20:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2 HD
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+http://138.59.227.20:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports HD
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="-",Foz de Yguazu
+http://138.59.227.20:8000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="-",Futbol Total
+http://138.59.227.20:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="-",GEN HD
+http://138.59.227.20:8000/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="-",GEN HD2
+http://138.59.227.20:8000/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="-",Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="-",Guaira Tv
+http://138.59.227.20:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+http://138.59.227.20:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://138.59.227.20:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://138.59.227.20:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="-",HBO Mundi
+http://138.59.227.20:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://138.59.227.20:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+http://138.59.227.20:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://138.59.227.20:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",HTV
+http://138.59.227.20:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",History Channel
+http://138.59.227.20:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="-",La Nacion TV
+http://138.59.227.20:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",Latele Digital
+http://138.59.227.20:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="-",Latele HD
+http://138.59.227.20:8000/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="-",Latina Tv
+http://138.59.227.20:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="-",Lifetime
+http://138.59.227.20:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+http://138.59.227.20:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",Maria Vision Tv
+http://138.59.227.20:8000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="-",Mbocayaty Tv
+http://138.59.227.20:8000/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="-",Mega Tv HD
+http://138.59.227.20:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="-",Metro
+http://138.59.227.20:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="-",Monumental Tv Digital
+http://138.59.227.20:8000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="-",Motor Sur Media
+http://138.59.227.20:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",NPY HD
+http://138.59.227.20:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="-",Nanduti Tv
+http://138.59.227.20:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="-",Natalicio Tv
+http://138.59.227.20:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-",Next Tv
+http://138.59.227.20:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+http://138.59.227.20:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+http://138.59.227.20:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="-",Nuevo Tiempo
+http://138.59.227.20:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="-",Obedira Tv HD
+http://138.59.227.20:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="-",POPU TV HD
+http://138.59.227.20:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="-",PRO TV HD
+http://138.59.227.20:8000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="-",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="-",Paraguari Tv
+http://138.59.227.20:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="-",Paraguay Tv
+http://138.59.227.20:8000/play/a0f8/index.m3u8
+#EXTINF:-1 group-title="-",Paramount HD
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="-",Paravision HD
+http://138.59.227.20:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="-",Playboy
+http://138.59.227.20:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",Quiero Musica
+http://138.59.227.20:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",RAI Italia
+http://138.59.227.20:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",RCC TV
+http://138.59.227.20:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="-",RCC Tv
+http://138.59.227.20:8000/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="-",RPC Digital
+http://138.59.227.20:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="-",RPC HD
+http://138.59.227.20:8000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="-",RT en Espaæol
+http://138.59.227.20:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="-",Radio Colmenar Tv
+http://138.59.227.20:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="-",Republica Tv Vca
+http://138.59.227.20:8000/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="-",Rural
+http://138.59.227.20:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",SNT
+http://138.59.227.20:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="-",SNT HD
+http://138.59.227.20:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-",SNT IPTV
+http://138.59.227.20:8000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="-",San Cristobal Tv
+http://138.59.227.20:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="-",Sextreme
+http://138.59.227.20:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+http://138.59.227.20:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-",Sony Movies HD
+http://138.59.227.20:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+http://138.59.227.20:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="-",Star Channel HD
+http://138.59.227.20:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal
+http://138.59.227.20:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",Suceso Tv
+http://138.59.227.20:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="-",Sur Tv
+http://138.59.227.20:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+http://138.59.227.20:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",TLNovelas
+http://138.59.227.20:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="-",TN HD
+http://138.59.227.20:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://138.59.227.20:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://138.59.227.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+http://138.59.227.20:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",TV Publica HD
+http://138.59.227.20:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="-",Teleclasica
+http://138.59.227.20:8000/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="-",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",Telefuturo Digital
+http://138.59.227.20:8000/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="-",Telefuturo HD
+http://138.59.227.20:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD
+http://138.59.227.20:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="-",Tv Aire Oviedo
+http://138.59.227.20:8000/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="-",Tv Aparecida
+http://138.59.227.20:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="-",Tv Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="-",Tv Max Oviedo
+http://138.59.227.20:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="-",Tv Tropical Brasil
+http://138.59.227.20:8000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",USA Network
+http://138.59.227.20:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="-",Unicanal
+http://138.59.227.20:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="-",Union Tv
+http://138.59.227.20:8000/play/a0gm/index.m3u8
+#EXTINF:-1 group-title="-",Universal HD
+http://138.59.227.20:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="-",Venus
+http://138.59.227.20:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",Venus Tv
+http://138.59.227.20:8000/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="-",Volver
+http://138.59.227.20:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://138.59.227.20:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="-",Yguazu Tv
+http://138.59.227.20:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="-",ciudad magazine
+http://138.59.227.20:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",el nueve HD
+http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="-",el trece HD
+http://138.59.227.20:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="-",26TV
+http://138.59.227.20:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",A&E HD
+http://138.59.227.20:8000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="-",A24
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="-",ABC TV
+http://138.59.227.20:8000/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="-",AM Sports
+http://138.59.227.20:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="-",AMC
+http://138.59.227.20:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+http://138.59.227.20:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="-",Adult swim HD
+http://138.59.227.20:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="-",Albirroja Tv
+http://138.59.227.20:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://138.59.227.20:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="-",Azteca Deportes
+http://138.59.227.20:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+http://138.59.227.20:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-",Bruno Masi Tv
+http://138.59.227.20:8000/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+http://138.59.227.20:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="-",C9N Digital
+http://138.59.227.20:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-",C9N HD
+http://138.59.227.20:8000/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="-",CAMARA Camboriu
+http://138.59.227.20:8000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="-",CNN en Espaæol
+http://138.59.227.20:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="-",Cadena Master Tv
+http://138.59.227.20:8000/play/a0ez/index.m3u8
+#EXTINF:-1 group-title="-",Cambyreta Tv
+http://138.59.227.20:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="-",Canal 8 Villarrica
+http://138.59.227.20:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="-",Canal Extra
+http://138.59.227.20:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="-",Canal a
+http://138.59.227.20:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="-",Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://138.59.227.20:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+http://138.59.227.20:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://138.59.227.20:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="-",Cosmos HD
+http://138.59.227.20:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="-",Crðnica
+http://138.59.227.20:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",DeporTV
+http://138.59.227.20:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",DirecTv Sports
+http://138.59.227.20:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://138.59.227.20:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://138.59.227.20:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://138.59.227.20:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://138.59.227.20:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://138.59.227.20:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel HD
+http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",Disney Junior
+http://138.59.227.20:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="-",E! Entertainment
+http://138.59.227.20:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="-",E40 DIGITAL
+http://138.59.227.20:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://138.59.227.20:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+http://138.59.227.20:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://138.59.227.20:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="-",EWTN
+http://138.59.227.20:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="-",EWTN HD
+http://138.59.227.20:8000/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="-",El Canal  de las Estrellas
+http://138.59.227.20:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+http://138.59.227.20:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="-",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="-",Europa Europa
+http://138.59.227.20:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+http://138.59.227.20:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="-",Farra Play Tv
+http://138.59.227.20:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="-",Film & Arts HD
+http://138.59.227.20:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2 HD
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+http://138.59.227.20:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports HD
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="-",Foz de Yguazu
+http://138.59.227.20:8000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="-",Futbol Total
+http://138.59.227.20:8000/play/a0fs/index.m3u8
+#EXTINF:-1 group-title="-",GEN HD
+http://138.59.227.20:8000/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="-",GEN HD2
+http://138.59.227.20:8000/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="-",Galicia TV
+http://138.59.227.20:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="-",Guaira Tv
+http://138.59.227.20:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+http://138.59.227.20:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://138.59.227.20:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://138.59.227.20:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="-",HBO Mundi
+http://138.59.227.20:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://138.59.227.20:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+http://138.59.227.20:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+http://138.59.227.20:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",HTV
+http://138.59.227.20:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",History Channel
+http://138.59.227.20:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="-",La Nacion TV
+http://138.59.227.20:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",Latele Digital
+http://138.59.227.20:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="-",Latele HD
+http://138.59.227.20:8000/play/a0fg/index.m3u8
+#EXTINF:-1 group-title="-",Latina Tv
+http://138.59.227.20:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="-",Lifetime
+http://138.59.227.20:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+http://138.59.227.20:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",Maria Vision Tv
+http://138.59.227.20:8000/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="-",Mbocayaty Tv
+http://138.59.227.20:8000/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="-",Mega Tv HD
+http://138.59.227.20:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="-",Metro
+http://138.59.227.20:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="-",Monumental Tv Digital
+http://138.59.227.20:8000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="-",Motor Sur Media
+http://138.59.227.20:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",NPY HD
+http://138.59.227.20:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="-",Nanduti Tv
+http://138.59.227.20:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="-",Natalicio Tv
+http://138.59.227.20:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-",Next Tv
+http://138.59.227.20:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+http://138.59.227.20:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+http://138.59.227.20:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="-",Nuevo Tiempo
+http://138.59.227.20:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="-",Obedira Tv HD
+http://138.59.227.20:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="-",POPU TV HD
+http://138.59.227.20:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="-",PRO TV HD
+http://138.59.227.20:8000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="-",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="-",Paraguari Tv
+http://138.59.227.20:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="-",Paraguay Tv
+http://138.59.227.20:8000/play/a0f8/index.m3u8
+#EXTINF:-1 group-title="-",Paramount HD
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="-",Paravision HD
+http://138.59.227.20:8000/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="-",Playboy
+http://138.59.227.20:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",Quiero Musica
+http://138.59.227.20:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",RAI Italia
+http://138.59.227.20:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",RCC TV
+http://138.59.227.20:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="-",RCC Tv
+http://138.59.227.20:8000/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="-",RPC Digital
+http://138.59.227.20:8000/play/a0e3/index.m3u8
+#EXTINF:-1 group-title="-",RPC HD
+http://138.59.227.20:8000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="-",RT en Espaæol
+http://138.59.227.20:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="-",Radio Colmenar Tv
+http://138.59.227.20:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="-",Red Digital San Pedro
+http://138.59.227.20:8000/play/a0ey/index.m3u8
+#EXTINF:-1 group-title="-",Republica Tv Vca
+http://138.59.227.20:8000/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="-",Rural
+http://138.59.227.20:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",SNT
+http://138.59.227.20:8000/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="-",SNT HD
+http://138.59.227.20:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-",SNT IPTV
+http://138.59.227.20:8000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="-",San Cristobal Tv
+http://138.59.227.20:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="-",Sextreme
+http://138.59.227.20:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+http://138.59.227.20:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="-",Sony Movies HD
+http://138.59.227.20:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+http://138.59.227.20:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="-",Star Channel HD
+http://138.59.227.20:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal
+http://138.59.227.20:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="-",Suceso Tv
+http://138.59.227.20:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="-",Sur Tv
+http://138.59.227.20:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+http://138.59.227.20:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",TLNovelas
+http://138.59.227.20:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="-",TN HD
+http://138.59.227.20:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://138.59.227.20:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://138.59.227.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+http://138.59.227.20:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",TV Publica HD
+http://138.59.227.20:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+http://138.59.227.20:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="-",Teleclasica
+http://138.59.227.20:8000/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="-",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",Telefuturo Digital
+http://138.59.227.20:8000/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="-",Telefuturo HD
+http://138.59.227.20:8000/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD
+http://138.59.227.20:8000/play/a09g/index.m3u8
+#EXTINF:-1 group-title="-",Tv Aire Oviedo
+http://138.59.227.20:8000/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="-",Tv Aparecida
+http://138.59.227.20:8000/play/a0g5/index.m3u8
+#EXTINF:-1 group-title="-",Tv Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="-",Tv Max Oviedo
+http://138.59.227.20:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="-",Tv Tropical Brasil
+http://138.59.227.20:8000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",USA Network
+http://138.59.227.20:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="-",Unicanal
+http://138.59.227.20:8000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="-",Union Tv
+http://138.59.227.20:8000/play/a0gm/index.m3u8
+#EXTINF:-1 group-title="-",Universal HD
+http://138.59.227.20:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="-",Venus
+http://138.59.227.20:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",Venus Tv
+http://138.59.227.20:8000/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="-",Volver
+http://138.59.227.20:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://138.59.227.20:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="-",Yguazu Tv
+http://138.59.227.20:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="-",ciudad magazine
+http://138.59.227.20:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",el nueve HD
+http://138.59.227.20:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="-",el trece HD
+http://138.59.227.20:8000/play/a07b/index.m3u8
