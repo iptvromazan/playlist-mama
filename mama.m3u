@@ -34,23 +34,29 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Центральные",В мире животных
 http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Центральные" ,НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Центральные" ,НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Центральные" ,НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Центральные" ,НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",НТВ-Мир
+https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31351/logo_256.webp", НТВ Своя игра
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/SfOT45m9ui4dd8jGgCXzlA,1791960630/streaming/svoya_igra_hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31358/logo_256.webp", НТВ Следствие вели
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/HcdxqWaEvpF-Hkv5nmMz-Q,1791960630/streaming/sledstvie_veli_hd/324/1/index.m3u8
+#EXTINF:-1 group-title="Центральные" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/17340/logo_256.webp", НТВ Неизвестная Россия
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/cOgI-27PUCzevIy40mEmWQ,1791960630/streaming/unknown_russia/324/1/index.m3u8
 
-#EXTINF:-1 group-title="Uplink (VPN)",ТНТ4
-https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",Россия 24
-https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",Россия К
-https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",РТР Планета
-https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",НТВ-Мир
-https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",Рен ТВ international
-https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",365 дней
-https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",Техно 24
-https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Uplink (VPN)",Моя планета
 
 
