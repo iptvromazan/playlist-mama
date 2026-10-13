@@ -32,43 +32,25 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Центральные" tvg-logo="https://iptvx.one/icn/tnt.png",ТНТ
 #EXTVLCOPT:http-user-agent=ru.rt.video.player.hls.HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Ott Club+Реклама",В мире животных
+#EXTINF:-1 group-title="Центральные",В мире животных
 http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Инет",Россия К
-http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="Инет",Россия 24
-http://185.46.16.239:8000/Rossiya_24
-#EXTINF:-1 group-title="Инет",Россия 1
-http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="Инет",ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Инет",НТВ
-http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="Инет",Рен ТВ
-http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="Инет",Моя планета HD
-http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="Инет",Доктор
-http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="Инет",Живая планета
-http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Инет",Наука 2.0
-http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="Инет",История
-http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Инет",Пес и Ко
-http://185.46.16.239:8000/Pes_i_Ko
-#EXTINF:-1 group-title="Инет",РЖД ТВ
-http://185.46.16.239:8000/Nat_Geo_Wild_HD
-#EXTINF:-1 group-title="Инет",Звезда
-http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="Инет",ТВ3
-http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="Инет",СТС
-http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="Инет",ОТР
-http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="Инет",МИР
-http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="Инет",Домашний
-http://185.46.16.239:8000/Domashniy
+
+#EXTINF:-1 group-title="Uplink (VPN)",ТНТ4
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Россия 24
+https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Россия К
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",РТР Планета
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",НТВ-Мир
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Рен ТВ international
+https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Техно 24
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Моя планета
+
+
